@@ -18,6 +18,8 @@
     [super viewDidLoad];
     UIView *view = [[UIView alloc] init];
     [self.view addSubview:view];
+    UIImageView *imageView = [[UIImageView alloc] init];
+    
 }
 
 - (void)didReceiveMemoryWarning {
