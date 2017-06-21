@@ -13,6 +13,7 @@
 		54A74FE81EFA60C0001C2335 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54A74FE61EFA60C0001C2335 /* Main.storyboard */; };
 		54A74FEA1EFA60C0001C2335 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54A74FE91EFA60C0001C2335 /* Assets.xcassets */; };
 		54A74FED1EFA60C0001C2335 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54A74FEB1EFA60C0001C2335 /* LaunchScreen.storyboard */; };
+		54A74FF61EFA61C4001C2335 /* YPTextController.m in Sources */ = {isa = PBXBuildFile; fileRef = 54A74FF51EFA61C4001C2335 /* YPTextController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		54A74FE91EFA60C0001C2335 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54A74FEC1EFA60C0001C2335 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54A74FEE1EFA60C0001C2335 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54A74FF41EFA61C4001C2335 /* YPTextController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YPTextController.h; sourceTree = "<group>"; };
+		54A74FF51EFA61C4001C2335 /* YPTextController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YPTextController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				54A74FE11EFA60C0001C2335 /* AppDelegate.m */,
 				54A74FE31EFA60C0001C2335 /* ViewController.h */,
 				54A74FE41EFA60C0001C2335 /* ViewController.m */,
+				54A74FF41EFA61C4001C2335 /* YPTextController.h */,
+				54A74FF51EFA61C4001C2335 /* YPTextController.m */,
 				54A74FE61EFA60C0001C2335 /* Main.storyboard */,
 				54A74FE91EFA60C0001C2335 /* Assets.xcassets */,
 				54A74FEB1EFA60C0001C2335 /* LaunchScreen.storyboard */,
@@ -154,6 +159,7 @@
 				54A74FE51EFA60C0001C2335 /* ViewController.m in Sources */,
 				54A74FE21EFA60C0001C2335 /* AppDelegate.m in Sources */,
 				54A74FDF1EFA60C0001C2335 /* main.m in Sources */,
+				54A74FF61EFA61C4001C2335 /* YPTextController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
